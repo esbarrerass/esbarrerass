@@ -5,7 +5,7 @@
 </p>
 
 <p align="center" style="font-size:18px;">
-I'm a Systems and Software Engineering student passionate about learning and driven by optimization to improve my problem-solving skills.
+I'm a Systems and Software Engineer passionate about learning and driven by optimization to improve my problem-solving skills.
 </p>
 
 ---
